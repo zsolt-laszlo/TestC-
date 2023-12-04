@@ -1,0 +1,7 @@
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\bin\Debug\Ciklusok.exe.config
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\bin\Debug\Ciklusok.exe
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\bin\Debug\Ciklusok.pdb
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\obj\Debug\Ciklusok.csproj.AssemblyReference.cache
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\obj\Debug\Ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\obj\Debug\Ciklusok.exe
+C:\Users\zsolt\OneDrive\Asztali gép\C#\Ciklusok\obj\Debug\Ciklusok.pdb
